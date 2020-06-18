@@ -47,7 +47,7 @@ class ViewController: UIViewController {
             }
         }
     }
-}
+
 
 extension ViewController {
     func addVerticalGradientLayer(topColor: UIColor, bottomColor: UIColor) {
