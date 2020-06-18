@@ -44,7 +44,7 @@ class ViewController: UIViewController {
             presentationView.animate()
             
             nameAnimationLabel.text = "Preset: \(animation.animation). Curve: \(animation.curve)."
-            sender.titleLabel?.text = animation.animation
+            }
         }
     }
 }
